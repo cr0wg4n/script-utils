@@ -1,2 +1,1 @@
-xrandr -q 
-xrandr --output LVDS-1 --right-of HDMI-1
+xrandr -q
